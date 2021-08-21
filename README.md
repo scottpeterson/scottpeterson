@@ -8,9 +8,10 @@
 - How to reach me:
     - [Twitter](https://twitter.com/scott_peterson4)
     - [LinkedIn](https://www.linkedin.com/in/scottpeterson4/)
+    - [Hashnode](https://hashnode.com/@scottpeterson)
 - Pronouns: he/him
 - Ideas for 2021:
-    - Create a personal website using [Webflow](https://webflow.com/) & move blog there
+    - ~Create a personal website using [Webflow](https://webflow.com/) & move blog there~ (but then bailed to hashnode because Webflow doesn't support full Markdown)
     - Make a smart mirror using [Magic Mirror](https://magicmirror.builders/)
-    - Figure out what Tenet is all about
-    - Resist the urge to get a 4th dog
+    - ~Figure out what Tenet is all about~
+    - ~Resist the urge to get a 4th dog~
