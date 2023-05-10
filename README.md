@@ -6,7 +6,9 @@
     - [Twitter](https://twitter.com/scott_peterson4)
     - [LinkedIn](https://www.linkedin.com/in/scottpeterson4/)
     - [Hashnode](https://hashnode.com/@scottpeterson)
+    - [if you are a fan of Division III Women's Basketball](https://d3data.weebly.com/)
 - Pronouns: he/him
+- Leveling up my Jetpack Compose knowledge via [Jorge Castillo's course](https://jorgecastillo.dev/course/)
 - Recent relevant books read:
     - Androids by Chet Haase
     - Engineering Management for the Rest of Us by Sarah Drasner
